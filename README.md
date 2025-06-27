@@ -40,7 +40,7 @@ Love Memories, sevdiğiniz kişiyle yaşadığınız özel anları ölümsüzle�
 
 2. **Projeyi İndirin**:
    ```bash
-   git clone https://github.com/kullaniciadi/LoveMemories.git
+   git clone https://github.com/ErenKalkan22/LoveMemories.git
    cd LoveMemories
    ```
 
