@@ -67,10 +67,6 @@ Love Memories, sevdiğiniz kişiyle yaşadığınız özel anları ölümsüzle�
    - Sağ üstteki kalem ikonuna tıklayın
    - Bilgileri güncelleyin ve kaydedin
 
-## 🎯 Geliştirici Notları
-
-Bu uygulama, sevdiğim kişi için özel olarak geliştirilmiştir. Her kod satırı sevgiyle yazılmış, her özellik özenle tasarlanmıştır.
-
 ### 🏗️ Mimari
 - **MVVM Pattern**: SwiftUI'ın declarative yapısı ile uyumlu
 - **State Management**: @State ve @Binding ile reaktif veri yönetimi
@@ -103,4 +99,3 @@ Eren Kalkan
 
 ---
 
-*"İyi ki varsın, iyi ki benimlesin."* ✨ 
